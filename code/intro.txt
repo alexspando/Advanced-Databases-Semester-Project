@@ -1,0 +1,1 @@
+This folder contains all the codes that are essential to run the queries from the assignment
